@@ -54,31 +54,33 @@
 
 
 
-\## Pending Tests
+\## Validation Results
 
 
 
-\- Complete installation
+\- Complete installation: Pass
 
-\- Confirm local Ryan account
+\- Local Ryan account created: Pass
 
-\- Confirm automatic login
+\- Automatic login: Pass
 
-\- Confirm Microsoft account setup is skipped
+\- Microsoft account setup skipped: Pass
 
-\- Confirm Windows Update works
+\- Windows Update: Pass
 
-\- Confirm Defender works
+\- Microsoft Defender: Pass
 
-\- Confirm Microsoft Store works
+\- Microsoft Store: Pass
 
-\- Confirm WinGet works
+\- WinGet: Pass
 
-\- Confirm networking and audio work
+\- Networking: Pass
 
-\- Record idle RAM and process count
+\- Audio: Pass
 
-\- Run SFC and DISM health checks
+\- SFC integrity check: Pass
+
+\- DISM component-store check: Pass
 
 
 
@@ -86,5 +88,5 @@
 
 
 
-CybistOS 0.1b passed initial boot testing. Full compatibility testing remains pending.
+CybistOS 0.1b passed installation, unattended setup, security, servicing, Store, WinGet, networking, audio, and system-integrity testing.
 
