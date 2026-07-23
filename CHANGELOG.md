@@ -18,11 +18,35 @@
 
 \- Custom ISO boot test passed
 
-\- Full installation and compatibility testing pending
+\- Full installation completed successfully
+
+\- Local administrator account creation passed
+
+\- Automatic login passed
+
+\- Microsoft account setup bypass passed
+
+\- Windows Update passed
+
+\- Microsoft Defender passed
+
+\- Microsoft Store passed
+
+\- WinGet passed
+
+\- Networking passed
+
+\- Audio passed
+
+\- SFC integrity check passed
+
+\- DISM component-store check passed
+
+\- Full installation and compatibility validation passed
 
 
 
-\## CybistOS 0.1
+\## CybistOS 0.1a
 
 
 
@@ -39,4 +63,6 @@
 \- Set Eastern time zone
 
 \- Reduced installation input to destination-drive selection
+
+\- Unattended installation validation passed
 
